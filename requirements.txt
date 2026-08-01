@@ -1,0 +1,19 @@
+# Final HeritageLens Colab/application environment
+tensorflow>=2.20,<2.21
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+seaborn>=0.13
+Pillow>=11
+ImageHash>=4.3
+kagglehub>=0.3
+gradio==6.20.0
+chromadb>=1,<2
+langchain>=1,<2
+langchain-core>=1,<2
+langchain-chroma
+langchain-huggingface
+langchain-google-genai>=4,<5
+google-genai>=1,<2
+sentence-transformers
